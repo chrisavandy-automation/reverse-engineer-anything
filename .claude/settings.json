@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "humanizer": {
+      "source": {
+        "source": "github",
+        "repo": "chrisavandy-automation/humanizer"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "humanizer@humanizer": true
+  }
+}
